@@ -56,8 +56,11 @@ a{
 a:hover{
   color:#EAF6F6;
 }
-.middle-container{
-
+.middle-container .profile img{
+border-radius: 50%;
+height: 300px;
+width: 400px;
+border: 2px solid green ;
 }
 .copyright{
   font-family: 'Montserrat', sans-serif;
